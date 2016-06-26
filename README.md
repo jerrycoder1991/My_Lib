@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DemoMyLib
 
 [![CI Status](http://img.shields.io/travis/Jerry Coder/DemoMyLib.svg?style=flat)](https://travis-ci.org/Jerry Coder/DemoMyLib)
@@ -27,3 +28,6 @@ Jerry Coder, jerry.coder1991@gmail.com
 ## License
 
 DemoMyLib is available under the MIT license. See the LICENSE file for more info.
+=======
+# My_Lib
+>>>>>>> 71f8b1c23315546b99f7b744e48edd68ed9c09ef
