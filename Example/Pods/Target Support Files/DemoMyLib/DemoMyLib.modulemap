@@ -1,0 +1,6 @@
+framework module DemoMyLib {
+  umbrella header "DemoMyLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
