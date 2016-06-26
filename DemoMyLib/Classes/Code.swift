@@ -12,7 +12,11 @@ class Code: NSString {
 }
 
 extension NSString {
-    public static func getFullName() -> NSString {
-        return "vo minh tri"
+    public static func authorName() -> NSString {
+        return "Jerry Coder"
+    }
+    
+    public static func versionLib() -> NSString {
+        return "0.1.0"
     }
 }
